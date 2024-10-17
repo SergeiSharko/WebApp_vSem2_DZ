@@ -1,0 +1,4 @@
+Entries: 2
+Size: 
+Hits: 5
+Misses: 2
